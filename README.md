@@ -2,7 +2,7 @@
 Analyzed salmonid population data from WDFW focusing on escapement and hatchery-origin spawners (pHOS). Used Python for data cleaning, visualization, and insights into species trends. Highlights population health, hatchery impact, and conservation efforts across Washington regions and years.
 
 🐟 Salmonid Population Trends Analysis
-This project presents a comprehensive analysis of salmonid population indicators using the publicly available dataset from the Washington Department of Fish and Wildlife (WDFW). The dataset primarily focuses on two critical metrics:
+This project presents acomprehensive analysis of salmonid population indicators using the publicly available dataset from the Washington Department of Fish and Wildlife (WDFW). The dataset primarily focuses on two critical metrics:
 
 Escapement: The number of adult salmon that escape capture and return to freshwater habitats to spawn naturally.
 
