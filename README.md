@@ -73,5 +73,5 @@ Integrate environmental data (like water temperature or streamflow).
 
 Use machine learning to predict future population trends.
 
-Feel free to explore the notebooks and visualizations in this repository to learn more
+Feel free to explore the notebooks and visualizations in this repository to learn more!
 
